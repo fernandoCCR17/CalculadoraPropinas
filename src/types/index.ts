@@ -5,5 +5,5 @@ export type MenuItem = {
 }
 
 export type OrderItem = MenuItem & {
-    quatity: number;
+    quantity: number;
 }
